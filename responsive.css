@@ -30,7 +30,7 @@
   .head-wrapper {
     
     height: auto;
-    background-image: url(../img/sp-head.jpg);
+    background-image: url(./sp-head.jpg);
     background-size: 100%;
     padding: 134px 23px 119px 24px;
   }
