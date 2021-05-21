@@ -63,7 +63,7 @@ header li:hover {
 .head-wrapper {
   
   height: 611px;
-  background-image: url(../img/head-img.png);
+  background-image: url(./head-img.png);
   background-size: 100%;
   padding: 188px 108px 188px 616px;
 }
